@@ -1,0 +1,20 @@
+{
+    "name": "vmest/plugin-example-form",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "src\\": "./src"
+        },
+        "files" : [
+            "src/util/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Victor M. Estrada G.",
+            "email": "vmestrada88@gmail.com"
+        }
+    ],
+    "require": {}
+}
